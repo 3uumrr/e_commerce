@@ -34,7 +34,7 @@ public class UserController {
         }
     }
 
-    @PutMapping("/user/add")
+    @PostMapping("/user/add")
     public ResponseEntity<ApiResponse> addUser(@RequestBody CreateUserRequest userRequest){
         try {
             User user = userService.createUser(userRequest);
