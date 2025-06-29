@@ -22,7 +22,7 @@ This is a backend system for an **E-Commerce** application built with **Spring B
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/seifElsokary2003/ecommerce_app.git  
+git clone https://github.com/3uumrr/e_commerce
 cd ecommerce_app  
 ```  
 
